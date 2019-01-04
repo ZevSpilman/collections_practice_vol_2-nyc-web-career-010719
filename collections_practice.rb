@@ -38,3 +38,5 @@ def remove_non_strings(array)
     smtn.is_a?(String) == false
   end
 end
+
+def coubnt_elements()
